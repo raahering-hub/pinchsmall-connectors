@@ -1,0 +1,24 @@
+{
+  "connector": "Sugar",
+  "case": "Rivella Process",
+  "model": {
+    "property_package": "PengRobinson"
+  },
+  "reference_flow": {
+    "massflow_kg_s": 0.5138
+  },
+  "state": {
+    "T_K": 298.15,
+    "P_Pa": 101325.0
+  },
+  "properties": {
+    "h_kJ_kg": -949.4795072441959,
+    "s_kJ_kgK": -1.4632441505683518,
+    "vapor_fraction": 0.0,
+    "phase": "L"
+  },
+  "compounds": {
+    "basis": "MASSFRAC",
+    "Sucrose": 1.0
+  }
+}

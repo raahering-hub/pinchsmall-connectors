@@ -1,0 +1,25 @@
+{
+  "connector": "Skimmed Milk",
+  "case": "Evaporation Process",
+  "model": {
+    "property_package": "PengRobinson"
+  },
+  "reference_flow": {
+    "massflow_kg_s": 7.52384
+  },
+  "state": {
+    "T_K": 277.15,
+    "P_Pa": 101325.0
+  },
+  "properties": {
+    "h_kJ_kg": -2353.742193462893,
+    "s_kJ_kgK": -6.378925282052441,
+    "vapor_fraction": 0.00837313390615589,
+    "phase": "L+V"
+  },
+  "compounds": {
+    "basis": "MASSFRAC",
+    "H2O": 0.88,
+    "FAT": 0.12
+  }
+}

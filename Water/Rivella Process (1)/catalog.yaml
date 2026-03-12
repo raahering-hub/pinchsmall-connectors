@@ -1,0 +1,28 @@
+mode: connector_database
+uid: Water # rivella process, label: R-18
+engine: Water
+
+model:
+  fluid: Water
+  property_package: SteamTables 
+  state_definition: [T, P]
+
+dwsim:
+  components:
+    - Water
+
+  component_map:
+    H2O: Water
+
+reference_flow:
+  massflow_kg_s: 0.05856
+
+state:
+  T_C: 25
+  P_bar: 1.01325
+
+compounds:
+  basis: MASSFRAC
+  H2O: 1.0
+
+

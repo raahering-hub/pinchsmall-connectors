@@ -1,0 +1,30 @@
+mode: connector_database
+uid: Water #evaporation process, label: s16
+engine: Water
+
+model:
+  fluid: Water
+  property_package: PengRobinson
+  state_definition: [T, P]
+
+dwsim:
+  components:
+    - Water
+    - Methyl linoleate
+  component_map:
+    H2O: Water
+    FAT: Methyl linoleate
+
+reference_flow:
+  massflow_kg_s: 0.16
+
+state:
+  T_C: 64.9628
+  P_bar: 1.01325
+
+compounds:
+  basis: MASSFRAC
+  H2O: 0.88
+  FAT: 0.12
+
+

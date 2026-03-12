@@ -1,0 +1,42 @@
+mode: connector_database
+uid:  Rivella # rivella process, label: R16 + R23
+engine: Rivella
+
+model:
+  fluid: Rivella
+  property_package: PengRobinson 
+  state_definition: [T, P]
+
+dwsim:
+  components:
+    - Water
+    - Methyl linoleate
+    # - Sodium Chloride
+    # - Methane
+    - Carbon dioxide
+    - Sucrose
+  component_map:
+    H2O: Water
+    FAT: Methyl linoleate
+    # SALT: Sodium Chloride
+    # CH4: Methane
+    CO2: Carbon dioxide
+    Sucrose: Sucrose
+
+reference_flow:
+  massflow_kg_s: 1.7526
+
+state:
+  T_C: 25
+  P_bar: 1.01325
+
+compounds:
+  basis: MASSFRAC
+  H2O: 0.90
+  FAT: 0.043
+  # SALT: 1.0
+  # CH4: 0.31
+  CO2: 0.025
+  Sucrose: 0.022
+
+

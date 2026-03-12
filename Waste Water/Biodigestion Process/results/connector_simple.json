@@ -1,0 +1,24 @@
+{
+  "connector": "Waste Water",
+  "case": "Biodigestion Process",
+  "model": {
+    "property_package": "SteamTables"
+  },
+  "reference_flow": {
+    "massflow_kg_s": 1.8125
+  },
+  "state": {
+    "T_K": 328.15,
+    "P_Pa": 101325.0
+  },
+  "properties": {
+    "h_kJ_kg": 230.3138255550199,
+    "s_kJ_kgK": 0.7679359971948784,
+    "vapor_fraction": 0.0,
+    "phase": "L"
+  },
+  "compounds": {
+    "basis": "MASSFRAC",
+    "H2O": 1.0
+  }
+}

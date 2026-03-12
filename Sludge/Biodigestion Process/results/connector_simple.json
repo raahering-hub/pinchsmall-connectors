@@ -1,0 +1,25 @@
+{
+  "connector": "Sludge",
+  "case": "Biodigestion Process",
+  "model": {
+    "property_package": "PengRobinson"
+  },
+  "reference_flow": {
+    "massflow_kg_s": 0.038
+  },
+  "state": {
+    "T_K": 293.15,
+    "P_Pa": 101325.0
+  },
+  "properties": {
+    "h_kJ_kg": -2006.3303222463287,
+    "s_kJ_kgK": -5.340061600938022,
+    "vapor_fraction": 0.020220565690771474,
+    "phase": "L+V"
+  },
+  "compounds": {
+    "basis": "MASSFRAC",
+    "H2O": 0.75,
+    "FAT": 0.25
+  }
+}

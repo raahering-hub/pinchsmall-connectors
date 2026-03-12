@@ -1,0 +1,42 @@
+mode: connector_database
+uid:  Sugar # rivella process, label: R12-sugar + R19-sugar
+engine: Sugar
+
+model:
+  fluid: Sugar
+  property_package: PengRobinson 
+  state_definition: [T, P]
+
+dwsim:
+  components:
+    # - Water
+    # - Methyl linoleate
+    # - Sodium Chloride
+    # - Methane
+    # - Carbon dioxide
+    - Sucrose
+  component_map:
+    # H2O: Water
+    # FAT: Methyl linoleate
+    # SALT: Sodium Chloride
+    # CH4: Methane
+    # CO2: Carbon dioxide
+    Sucrose: Sucrose
+
+reference_flow:
+  massflow_kg_s: 0.5138
+
+state:
+  T_C: 25
+  P_bar: 1.01325
+
+compounds:
+  basis: MASSFRAC
+  # H2O: 0.76
+  # FAT: 0.23
+  # SALT: 1.0
+  # CH4: 0.31
+  # CO2: 1.0
+  Sucrose: 1.0
+
+

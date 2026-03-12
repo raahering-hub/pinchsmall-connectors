@@ -1,0 +1,28 @@
+mode: connector_database
+uid: Waste Water # MESOST process, label: H20-CIP
+engine: Waste Water
+
+model:
+  fluid: Waste Water
+  property_package: SteamTables 
+  state_definition: [T, P]
+
+dwsim:
+  components:
+    - Water
+
+  component_map:
+    H2O: Water
+
+reference_flow:
+  massflow_kg_s: 0.39
+
+state:
+  T_C: 8
+  P_bar: 1.01325
+
+compounds:
+  basis: MASSFRAC
+  H2O: 1.0
+
+

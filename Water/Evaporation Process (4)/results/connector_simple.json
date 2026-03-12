@@ -1,0 +1,25 @@
+{
+  "connector": "Water",
+  "case": "Evaporation Process (4)",
+  "model": {
+    "property_package": "PengRobinson"
+  },
+  "reference_flow": {
+    "massflow_kg_s": 1.2607
+  },
+  "state": {
+    "T_K": 342.24899999999997,
+    "P_Pa": 101325.0
+  },
+  "properties": {
+    "h_kJ_kg": -2087.7587378356884,
+    "s_kJ_kgK": -5.501616832807077,
+    "vapor_fraction": 0.00865711436452059,
+    "phase": "L+V"
+  },
+  "compounds": {
+    "basis": "MASSFRAC",
+    "H2O": 0.88,
+    "FAT": 0.12
+  }
+}

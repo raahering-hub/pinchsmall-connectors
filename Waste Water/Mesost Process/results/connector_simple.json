@@ -1,0 +1,24 @@
+{
+  "connector": "Waste Water",
+  "case": "Mesost Process",
+  "model": {
+    "property_package": "SteamTables"
+  },
+  "reference_flow": {
+    "massflow_kg_s": 0.39
+  },
+  "state": {
+    "T_K": 281.15,
+    "P_Pa": 101325.0
+  },
+  "properties": {
+    "h_kJ_kg": 33.7245803489577,
+    "s_kJ_kgK": 0.1213254985782738,
+    "vapor_fraction": 0.0,
+    "phase": "L"
+  },
+  "compounds": {
+    "basis": "MASSFRAC",
+    "H2O": 1.0
+  }
+}

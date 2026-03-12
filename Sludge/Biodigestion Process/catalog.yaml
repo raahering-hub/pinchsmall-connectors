@@ -1,0 +1,32 @@
+mode: connector_database
+uid:  Sludge # biodigestion process, label: sludge
+engine: Sludge
+
+model:
+  fluid: Sludge
+  property_package: PengRobinson 
+  state_definition: [T, P]
+
+dwsim:
+  components:
+    - Water
+    - Methyl linoleate
+    # - Sodium Chloride
+  component_map:
+    H2O: Water
+    FAT: Methyl linoleate
+    # SALT: Sodium Chloride
+
+reference_flow:
+  massflow_kg_s: 0.038
+
+state:
+  T_C: 20
+  P_bar: 1.01325
+
+compounds:
+  basis: MASSFRAC
+  H2O: 0.75
+  FAT: 0.25
+  # Salt: 1.0
+

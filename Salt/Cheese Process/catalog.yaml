@@ -1,0 +1,32 @@
+mode: connector_database
+uid:  Salt # cheese process, label: c-7
+engine: Salt
+
+model:
+  fluid: Salt
+  property_package: PengRobinson 
+  state_definition: [T, P]
+
+dwsim:
+  components:
+    # - Water
+    # - Methyl linoleate
+    - Sodium Chloride
+  component_map:
+    # H2O: Water
+    # FAT: Methyl linoleate
+    SALT: Sodium Chloride
+
+reference_flow:
+  massflow_kg_s: 0.04819
+
+state:
+  T_C: 25
+  P_bar: 1.01325
+
+compounds:
+  basis: MASSFRAC
+  # H2O: 0.89
+  # FAT: 0.11
+  SALT: 1.0
+

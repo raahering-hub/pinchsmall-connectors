@@ -1,0 +1,30 @@
+mode: connector_database
+uid: Skimmed Milk # Pasteurization process, label: 15
+engine: Skimmed Milk
+
+model:
+  fluid: Skimmed Milk
+  property_package: PengRobinson
+  state_definition: [T, P]
+
+dwsim:
+  components:
+    - Water
+    - Methyl linolenate
+  component_map:
+    H2O: Water
+    FAT: Methyl linolenate
+
+reference_flow:
+  massflow_kg_s: 7.52384
+
+state:
+  T_C: 4
+  P_bar: 1.01325
+
+compounds:
+  basis: MASSFRAC
+  H2O: 0.88
+  FAT: 0.12
+
+

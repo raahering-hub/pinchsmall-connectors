@@ -1,0 +1,24 @@
+{
+  "connector": "Water",
+  "case": "Rivella Process (2)",
+  "model": {
+    "property_package": "SteamTables"
+  },
+  "reference_flow": {
+    "massflow_kg_s": 0.1004
+  },
+  "state": {
+    "T_K": 298.15,
+    "P_Pa": 101325.0
+  },
+  "properties": {
+    "h_kJ_kg": 104.92929464256497,
+    "s_kJ_kgK": 0.36723101597456376,
+    "vapor_fraction": 0.0,
+    "phase": "L"
+  },
+  "compounds": {
+    "basis": "MASSFRAC",
+    "H2O": 1.0
+  }
+}

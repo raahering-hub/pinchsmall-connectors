@@ -1,0 +1,25 @@
+{
+  "connector": "Waste Water",
+  "case": "Evaporation Process",
+  "model": {
+    "property_package": "SteamTables"
+  },
+  "reference_flow": {
+    "massflow_kg_s": 0.9811
+  },
+  "state": {
+    "T_K": 277.15,
+    "P_Pa": 101325.0
+  },
+  "properties": {
+    "h_kJ_kg": 16.91322178430955,
+    "s_kJ_kgK": 0.06110093421024669,
+    "vapor_fraction": 0.0,
+    "phase": "L"
+  },
+  "compounds": {
+    "basis": "MASSFRAC",
+    "H2O": 0.99,
+    "FAT": 0.01
+  }
+}

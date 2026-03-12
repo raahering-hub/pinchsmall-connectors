@@ -1,0 +1,28 @@
+mode: connector_database
+uid: Waste Water # biodigestor process, label: wastewater
+engine: Waste Water
+
+model:
+  fluid: Waste Water
+  property_package: SteamTables 
+  state_definition: [T, P]
+
+dwsim:
+  components:
+    - Water
+
+  component_map:
+    H2O: Water
+
+reference_flow:
+  massflow_kg_s: 1.8125
+
+state:
+  T_C: 55
+  P_bar: 1.01325
+
+compounds:
+  basis: MASSFRAC
+  H2O: 1.0
+
+
