@@ -1,0 +1,31 @@
+mode: connector_database
+uid:  Concentrated Whey 
+# biodigestion process, label: Whey_conc
+
+engine: Concentrated Whey 
+
+model:
+  fluid: Concentrated_Whey 
+  property_package: PengRobinson 
+  state_definition: [T, P]
+
+dwsim:
+  components:
+    - Water
+    - Methyl linoleate
+  component_map:
+    H2O: Water
+    FAT: Methyl linoleate
+
+reference_flow:
+  massflow_kg_s: 0.8749
+
+state:
+  T_C: 56
+  P_bar: 1.01325
+
+compounds:
+  basis: MASSFRAC
+  H2O: 0.60
+  FAT: 0.40
+

@@ -1,0 +1,26 @@
+{
+  "connector": "Cheese",
+  "case": "Cheese Process",
+  "model": {
+    "property_package": "PengRobinson"
+  },
+  "reference_flow": {
+    "massflow_kg_s": 0.5624
+  },
+  "state": {
+    "T_K": 286.15,
+    "P_Pa": 101325.0
+  },
+  "properties": {
+    "h_kJ_kg": -870.1153559055655,
+    "s_kJ_kgK": -2.314895357218268,
+    "vapor_fraction": 0.0,
+    "phase": "L"
+  },
+  "compounds": {
+    "basis": "MASSFRAC",
+    "H2O": 0.33,
+    "FAT": 0.63,
+    "SALT": 0.04
+  }
+}

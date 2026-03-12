@@ -1,0 +1,24 @@
+{
+  "connector": "CO2",
+  "case": "Rivella Process",
+  "model": {
+    "property_package": "PengRobinson"
+  },
+  "reference_flow": {
+    "massflow_kg_s": 0.0555
+  },
+  "state": {
+    "T_K": 338.15,
+    "P_Pa": 101325.0
+  },
+  "properties": {
+    "h_kJ_kg": 33.62767327727358,
+    "s_kJ_kgK": 0.10663724205970725,
+    "vapor_fraction": 1.0,
+    "phase": "V"
+  },
+  "compounds": {
+    "basis": "MASSFRAC",
+    "CO2": 1.0
+  }
+}

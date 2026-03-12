@@ -1,0 +1,25 @@
+{
+  "connector": "Diluted Whey",
+  "case": "Rivella Process",
+  "model": {
+    "property_package": "PengRobinson"
+  },
+  "reference_flow": {
+    "massflow_kg_s": 1.52
+  },
+  "state": {
+    "T_K": 298.15,
+    "P_Pa": 101325.0
+  },
+  "properties": {
+    "h_kJ_kg": -2295.0910762547555,
+    "s_kJ_kgK": -6.147798655264216,
+    "vapor_fraction": 0.007608327881680046,
+    "phase": "L+V"
+  },
+  "compounds": {
+    "basis": "MASSFRAC",
+    "H2O": 0.89,
+    "FAT": 0.11
+  }
+}

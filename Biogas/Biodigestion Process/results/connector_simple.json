@@ -1,0 +1,25 @@
+{
+  "connector": "Biogas",
+  "case": "Biodigestion Process",
+  "model": {
+    "property_package": "PengRobinson"
+  },
+  "reference_flow": {
+    "massflow_kg_s": 0.09472
+  },
+  "state": {
+    "T_K": 298.15,
+    "P_Pa": 101325.0
+  },
+  "properties": {
+    "h_kJ_kg": -0.9296381284116436,
+    "s_kJ_kgK": 0.23580367564682922,
+    "vapor_fraction": 1.0,
+    "phase": "V"
+  },
+  "compounds": {
+    "basis": "MASSFRAC",
+    "CH4": 0.31,
+    "CO2": 0.69
+  }
+}

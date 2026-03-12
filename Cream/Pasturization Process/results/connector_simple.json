@@ -1,0 +1,25 @@
+{
+  "connector": "Cream",
+  "case": "Pasturization Process",
+  "model": {
+    "property_package": "PengRobinson"
+  },
+  "reference_flow": {
+    "massflow_kg_s": 0.47616
+  },
+  "state": {
+    "T_K": 333.15,
+    "P_Pa": 101325.0
+  },
+  "properties": {
+    "h_kJ_kg": -1665.9208021391419,
+    "s_kJ_kgK": -4.333398389082866,
+    "vapor_fraction": 0.030380477675135773,
+    "phase": "L+V"
+  },
+  "compounds": {
+    "basis": "MASSFRAC",
+    "H2O": 0.67,
+    "FAT": 0.33
+  }
+}

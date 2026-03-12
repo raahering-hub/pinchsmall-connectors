@@ -1,0 +1,25 @@
+{
+  "connector": "Concentrated Milk",
+  "case": "Evaporation Process",
+  "model": {
+    "property_package": "PengRobinson"
+  },
+  "reference_flow": {
+    "massflow_kg_s": 1.4408
+  },
+  "state": {
+    "T_K": 277.15,
+    "P_Pa": 101325.0
+  },
+  "properties": {
+    "h_kJ_kg": -1503.3702536299436,
+    "s_kJ_kgK": -3.950234450576703,
+    "vapor_fraction": 0.05804213547306306,
+    "phase": "L+V"
+  },
+  "compounds": {
+    "basis": "MASSFRAC",
+    "H2O": 0.5,
+    "FAT": 0.5
+  }
+}

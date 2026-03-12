@@ -1,0 +1,39 @@
+mode: connector_database
+uid:  CO2 # rivella process, label: R-15 + R-22
+engine: CO2
+
+model:
+  fluid: CO2
+  property_package: PengRobinson 
+  state_definition: [T, P]
+
+dwsim:
+  components:
+    # - Water
+    # - Methyl linoleate
+    # - Sodium Chloride
+    # - Methane
+    - Carbon dioxide
+  component_map:
+    # H2O: Water
+    # FAT: Methyl linoleate
+    # SALT: Sodium Chloride
+    # CH4: Methane
+    CO2: Carbon dioxide
+
+reference_flow:
+  massflow_kg_s: 0.0555
+
+state:
+  T_C: 65
+  P_bar: 1.01325
+
+compounds:
+  basis: MASSFRAC
+  # H2O: 0.76
+  # FAT: 0.23
+  # SALT: 1.0
+  # CH4: 0.31
+  CO2: 1.0
+
+

@@ -1,0 +1,25 @@
+{
+  "connector": "Cream",
+  "case": "Mesost Process",
+  "model": {
+    "property_package": "PengRobinson"
+  },
+  "reference_flow": {
+    "massflow_kg_s": 0.06488
+  },
+  "state": {
+    "T_K": 281.15,
+    "P_Pa": 101325.0
+  },
+  "properties": {
+    "h_kJ_kg": -1852.9744330590408,
+    "s_kJ_kgK": -4.954537773572397,
+    "vapor_fraction": 0.029623693704339874,
+    "phase": "L+V"
+  },
+  "compounds": {
+    "basis": "MASSFRAC",
+    "H2O": 0.67,
+    "FAT": 0.33
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "connector": "Aroma",
+  "case": "Rivella Process",
+  "model": {
+    "property_package": "PengRobinson"
+  },
+  "reference_flow": {
+    "massflow_kg_s": 0.04788
+  },
+  "state": {
+    "T_K": 354.84,
+    "P_Pa": 101325.0
+  },
+  "properties": {
+    "h_kJ_kg": -1803.461405164644,
+    "s_kJ_kgK": -4.690725388110449,
+    "vapor_fraction": 0.019311054918542153,
+    "phase": "L+V"
+  },
+  "compounds": {
+    "basis": "MASSFRAC",
+    "H2O": 0.76,
+    "FAT": 0.23
+  }
+}

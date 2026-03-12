@@ -1,0 +1,25 @@
+{
+  "connector": "Diluted Whey",
+  "case": "Mesost Process",
+  "model": {
+    "property_package": "PengRobinson"
+  },
+  "reference_flow": {
+    "massflow_kg_s": 1.52
+  },
+  "state": {
+    "T_K": 277.15,
+    "P_Pa": 101325.0
+  },
+  "properties": {
+    "h_kJ_kg": -2383.524180929129,
+    "s_kJ_kgK": -6.4565531259807045,
+    "vapor_fraction": 0.0075554840000284906,
+    "phase": "L+V"
+  },
+  "compounds": {
+    "basis": "MASSFRAC",
+    "H2O": 0.89,
+    "FAT": 0.11
+  }
+}
