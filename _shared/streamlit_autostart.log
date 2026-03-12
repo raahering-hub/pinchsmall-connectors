@@ -1,0 +1,986 @@
+=== START STREAMLIT ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+=== START STREAMLIT (detached) ===
+CWD: \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools
+CMD: C:\Python311\python.exe -m streamlit run \\files8.epfl.ch\data\ramaral\dwsim-python\integration-dwpy\tools\app.py --server.port 8501 --server.address 127.0.0.1 --server.headless true --browser.gatherUsageStats false --logger.level warning
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
+Error adding External Unit Operation 'Neural Network Unit Operation'. Check the 'unitops' and 'extenders' folders for duplicate items.

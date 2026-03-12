@@ -1,0 +1,36 @@
+{
+  "generated_at_utc": "2026-02-24T10:46:56.499763+00:00",
+  "selection": {
+    "connector": "Cheese",
+    "case": "Cheese Process",
+    "template_catalog": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cheese\\Cheese Process\\catalog.yaml",
+    "temp_catalog": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\_tmp_runs\\pinch\\Cheese\\Cheese Process\\20260224-114646\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cheese\\Cheese Process\\integration.py"
+  },
+  "result": {
+    "connector": "Cheese",
+    "case": "20260224-114646",
+    "model": {
+      "property_package": "PengRobinson"
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.5624
+    },
+    "state": {
+      "T_K": 364.84,
+      "P_Pa": 190000.0
+    },
+    "properties": {
+      "h_kJ_kg": -178.40512879007298,
+      "s_kJ_kgK": -0.15107026201717338,
+      "vapor_fraction": 0.8181684819456981,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "H2O": 0.33,
+      "FAT": 0.63,
+      "SALT": 0.04
+    }
+  }
+}

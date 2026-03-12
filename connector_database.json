@@ -1,0 +1,1335 @@
+[
+  {
+    "uid": "acai_gasification",
+    "connector": "acai_gasification",
+    "case": null,
+    "engine": null,
+    "fluid": null,
+    "property_package": "Raoult",
+    "state": {
+      "T_K": null,
+      "P_Pa": null
+    },
+    "reference_flow": {
+      "massflow_kg_s": null
+    },
+    "properties": {
+      "h_kJ_kg": null,
+      "s_kJ_kgK": null,
+      "vapor_fraction": null,
+      "phase": null
+    },
+    "compounds": {
+      "basis": null,
+      "values": {}
+    },
+    "_warning": "No connector JSON found",
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\acai\\catalog.yaml",
+      "connector_json": null
+    }
+  },
+  {
+    "uid": "Aroma",
+    "connector": "Aroma",
+    "case": "Rivella Process",
+    "engine": "Aroma",
+    "fluid": "Aroma",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 354.84,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.04788
+    },
+    "properties": {
+      "h_kJ_kg": -1803.461405164644,
+      "s_kJ_kgK": -4.690725388110449,
+      "vapor_fraction": 0.019311054918542153,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.76,
+        "FAT": 0.23
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Aroma\\Rivella Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Aroma\\Rivella Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Biogas",
+    "connector": "Biogas",
+    "case": "Biodigestion Process",
+    "engine": "Biogas",
+    "fluid": "Biogas",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 298.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.09472
+    },
+    "properties": {
+      "h_kJ_kg": -0.9296381284116436,
+      "s_kJ_kgK": 0.23580367564682922,
+      "vapor_fraction": 1.0,
+      "phase": "V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "CH4": 0.31,
+        "CO2": 0.69
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Biogas\\Biodigestion Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Biogas\\Biodigestion Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Brine",
+    "connector": "Brine",
+    "case": "Cheese Process",
+    "engine": "Brine",
+    "fluid": "Brine",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 286.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.2732
+    },
+    "properties": {
+      "h_kJ_kg": -2688.2121115343907,
+      "s_kJ_kgK": -6.8348562906266865,
+      "vapor_fraction": 0.0,
+      "phase": "L"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.92,
+        "SALT": 0.08
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Brine\\Cheese Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Brine\\Cheese Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Cheese",
+    "connector": "Cheese",
+    "case": "Cheese Process",
+    "engine": "Cheese",
+    "fluid": "Cheese",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 286.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.5624
+    },
+    "properties": {
+      "h_kJ_kg": -870.1153559055655,
+      "s_kJ_kgK": -2.314895357218268,
+      "vapor_fraction": 0.0,
+      "phase": "L"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.33,
+        "FAT": 0.63,
+        "SALT": 0.04
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cheese\\Cheese Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cheese\\Cheese Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "CO2",
+    "connector": "CO2",
+    "case": "Rivella Process",
+    "engine": "CO2",
+    "fluid": "CO2",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 338.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.0555
+    },
+    "properties": {
+      "h_kJ_kg": 33.62767327727358,
+      "s_kJ_kgK": 0.10663724205970725,
+      "vapor_fraction": 1.0,
+      "phase": "V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "CO2": 1.0
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\CO2\\Rivella Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\CO2\\Rivella Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Concentrated Milk",
+    "connector": "Concentrated Milk",
+    "case": "Cheese Process",
+    "engine": "Concentrated Milk",
+    "fluid": "Concentrated Milk",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 277.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 1.4408
+    },
+    "properties": {
+      "h_kJ_kg": -1503.3702536299436,
+      "s_kJ_kgK": -3.950234450576703,
+      "vapor_fraction": 0.05804213547306306,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.5,
+        "FAT": 0.5
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Milk\\Cheese Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Milk\\Cheese Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Concentrated Milk",
+    "connector": "Concentrated Milk",
+    "case": "Evaporation Process",
+    "engine": "Concentrated Milk",
+    "fluid": "Concentrated_Milk",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 277.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 1.4408
+    },
+    "properties": {
+      "h_kJ_kg": -1503.3702536299436,
+      "s_kJ_kgK": -3.950234450576703,
+      "vapor_fraction": 0.05804213547306306,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.5,
+        "FAT": 0.5
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Milk\\Evaporation Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Milk\\Evaporation Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Concentrated Whey",
+    "connector": "Concentrated Whey",
+    "case": "Biodigestion Process",
+    "engine": "Concentrated Whey",
+    "fluid": "Concentrated_Whey",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 329.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.8749
+    },
+    "properties": {
+      "h_kJ_kg": -1549.7094391082742,
+      "s_kJ_kgK": -3.986665720254768,
+      "vapor_fraction": 0.040499119153264374,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.6,
+        "FAT": 0.4
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Biodigestion Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Biodigestion Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Concentrated Whey",
+    "connector": "Concentrated Whey",
+    "case": "Cheese Process",
+    "engine": "Concentrated Whey",
+    "fluid": "Concentrated_Whey",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 329.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.8749
+    },
+    "properties": {
+      "h_kJ_kg": -1549.7094391082742,
+      "s_kJ_kgK": -3.986665720254768,
+      "vapor_fraction": 0.040499119153264374,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.6,
+        "FAT": 0.4
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Cheese Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Cheese Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Concentrated Whey",
+    "connector": "Concentrated Whey",
+    "case": "Mesost Process",
+    "engine": "Concentrated Whey",
+    "fluid": "Concentrated_Whey",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 329.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.8749
+    },
+    "properties": {
+      "h_kJ_kg": -1549.7094391082742,
+      "s_kJ_kgK": -3.986665720254768,
+      "vapor_fraction": 0.040499119153264374,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.6,
+        "FAT": 0.4
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Mesost Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Mesost Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Concentrated Whey",
+    "connector": "Concentrated Whey",
+    "case": "Rivella Process",
+    "engine": "Concentrated Whey",
+    "fluid": "Concentrated_Whey",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 329.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.8749
+    },
+    "properties": {
+      "h_kJ_kg": -1549.7094391082742,
+      "s_kJ_kgK": -3.986665720254768,
+      "vapor_fraction": 0.040499119153264374,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.6,
+        "FAT": 0.4
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Rivella Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Rivella Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Cream",
+    "connector": "Cream",
+    "case": "Mesost Process",
+    "engine": "Cream",
+    "fluid": "Cream",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 281.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.06488
+    },
+    "properties": {
+      "h_kJ_kg": -1852.9744330590408,
+      "s_kJ_kgK": -4.954537773572397,
+      "vapor_fraction": 0.029623693704339874,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.67,
+        "FAT": 0.33
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cream\\Mesost Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cream\\Mesost Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Cream",
+    "connector": "Cream",
+    "case": "Pasturization Process",
+    "engine": "Cream",
+    "fluid": "Cream",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 333.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.47616
+    },
+    "properties": {
+      "h_kJ_kg": -1665.9208021391419,
+      "s_kJ_kgK": -4.333398389082866,
+      "vapor_fraction": 0.030380477675135773,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.67,
+        "FAT": 0.33
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cream\\Pasturization Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cream\\Pasturization Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Diluted Whey",
+    "connector": "Diluted Whey",
+    "case": "Biodigestion Process",
+    "engine": "Diluted Whey",
+    "fluid": "Diluted Whey",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 293.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 1.52
+    },
+    "properties": {
+      "h_kJ_kg": -2316.148151256287,
+      "s_kJ_kgK": -6.219343458316138,
+      "vapor_fraction": 0.007592983779454128,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.89,
+        "FAT": 0.11
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Biodigestion Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Biodigestion Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Diluted Whey",
+    "connector": "Diluted Whey",
+    "case": "Evaporation Process",
+    "engine": "Diluted Whey",
+    "fluid": "Diluted Whey",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 277.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 1.514
+    },
+    "properties": {
+      "h_kJ_kg": -2383.524180929129,
+      "s_kJ_kgK": -6.4565531259807045,
+      "vapor_fraction": 0.0075554840000284906,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.89,
+        "FAT": 0.11
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Evaporation Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Evaporation Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Diluted Whey",
+    "connector": "Diluted Whey",
+    "case": "Mesost Process",
+    "engine": "Diluted Whey",
+    "fluid": "Diluted Whey",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 277.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 1.52
+    },
+    "properties": {
+      "h_kJ_kg": -2383.524180929129,
+      "s_kJ_kgK": -6.4565531259807045,
+      "vapor_fraction": 0.0075554840000284906,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.89,
+        "FAT": 0.11
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Mesost Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Mesost Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Diluted Whey",
+    "connector": "Diluted Whey",
+    "case": "Rivella Process",
+    "engine": "Diluted Whey",
+    "fluid": "Diluted Whey",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 298.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 1.52
+    },
+    "properties": {
+      "h_kJ_kg": -2295.0910762547555,
+      "s_kJ_kgK": -6.147798655264216,
+      "vapor_fraction": 0.007608327881680046,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.89,
+        "FAT": 0.11
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Rivella Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Rivella Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Fertilizer",
+    "connector": "Fertilizer",
+    "case": "Biodigestion Process",
+    "engine": "Fertilizer",
+    "fluid": "Fertilizer",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 368.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.5115
+    },
+    "properties": {
+      "h_kJ_kg": -195.24529448436445,
+      "s_kJ_kgK": -0.11341731904223812,
+      "vapor_fraction": 0.37532220529879134,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.045,
+        "FAT": 0.95
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Fertilizer\\Biodigestion Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Fertilizer\\Biodigestion Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Fresh Milk",
+    "connector": "Fresh Milk",
+    "case": "Pasteurization Process",
+    "engine": "Fresh Milk",
+    "fluid": "Fresh Milk",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 279.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 8.0
+    },
+    "properties": {
+      "h_kJ_kg": -2322.2945561170254,
+      "s_kJ_kgK": -6.283686182418372,
+      "vapor_fraction": 0.009171665529091303,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.87,
+        "FAT": 0.13
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Fresh Milk\\Pasteurization Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Fresh Milk\\Pasteurization Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Mesost",
+    "connector": "Mesost",
+    "case": "Mesost Process",
+    "engine": "Mesost",
+    "fluid": "Mesost",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 281.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 2.0671
+    },
+    "properties": {
+      "h_kJ_kg": -2052.2761153931947,
+      "s_kJ_kgK": -5.501614813073314,
+      "vapor_fraction": 0.020141679386319077,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.75,
+        "FAT": 0.25
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Mesost\\Mesost Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Mesost\\Mesost Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Rivella",
+    "connector": "Rivella",
+    "case": "Rivella Process",
+    "engine": "Rivella",
+    "fluid": "Rivella",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 298.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 1.7526
+    },
+    "properties": {
+      "h_kJ_kg": -2318.359625816428,
+      "s_kJ_kgK": -6.213765481498005,
+      "vapor_fraction": 0.014013192453130704,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.9,
+        "FAT": 0.043,
+        "CO2": 0.025,
+        "Sucrose": 0.022
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Rivella\\Rivella Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Rivella\\Rivella Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Salt",
+    "connector": "Salt",
+    "case": "Cheese Process",
+    "engine": "Salt",
+    "fluid": "Salt",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 298.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.04819
+    },
+    "properties": {
+      "h_kJ_kg": -2328.97058408475,
+      "s_kJ_kgK": 1.7188979202067367,
+      "vapor_fraction": 0.0,
+      "phase": "L"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "SALT": 1.0
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Salt\\Cheese Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Salt\\Cheese Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Skimmed Milk",
+    "connector": "Skimmed Milk",
+    "case": "Evaporation Process",
+    "engine": "Skimmed Milk",
+    "fluid": "Skimmed Milk",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 277.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 7.52384
+    },
+    "properties": {
+      "h_kJ_kg": -2353.742193462893,
+      "s_kJ_kgK": -6.378925282052441,
+      "vapor_fraction": 0.00837313390615589,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.88,
+        "FAT": 0.12
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Skimmed Milk\\Evaporation Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Skimmed Milk\\Evaporation Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Skimmed Milk",
+    "connector": "Skimmed Milk",
+    "case": "Pasteurization Process",
+    "engine": "Skimmed Milk",
+    "fluid": "Skimmed Milk",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 277.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 7.52384
+    },
+    "properties": {
+      "h_kJ_kg": -2353.742193462893,
+      "s_kJ_kgK": -6.378925282052441,
+      "vapor_fraction": 0.00837313390615589,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.88,
+        "FAT": 0.12
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Skimmed Milk\\Pasteurization Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Skimmed Milk\\Pasteurization Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Sludge",
+    "connector": "Sludge",
+    "case": "Biodigestion Process",
+    "engine": "Sludge",
+    "fluid": "Sludge",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 293.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.038
+    },
+    "properties": {
+      "h_kJ_kg": -2006.3303222463287,
+      "s_kJ_kgK": -5.340061600938022,
+      "vapor_fraction": 0.020220565690771474,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.75,
+        "FAT": 0.25
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Sludge\\Biodigestion Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Sludge\\Biodigestion Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Sugar",
+    "connector": "Sugar",
+    "case": "Rivella Process",
+    "engine": "Sugar",
+    "fluid": "Sugar",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 298.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.5138
+    },
+    "properties": {
+      "h_kJ_kg": -949.4795072441959,
+      "s_kJ_kgK": -1.4632441505683518,
+      "vapor_fraction": 0.0,
+      "phase": "L"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "Sucrose": 1.0
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Sugar\\Rivella Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Sugar\\Rivella Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Waste Water",
+    "connector": "Waste Water",
+    "case": "Biodigestion Process",
+    "engine": "Waste Water",
+    "fluid": "Waste Water",
+    "property_package": "SteamTables",
+    "state": {
+      "T_K": 328.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 1.8125
+    },
+    "properties": {
+      "h_kJ_kg": 230.3138255550199,
+      "s_kJ_kgK": 0.7679359971948784,
+      "vapor_fraction": 0.0,
+      "phase": "L"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 1.0
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Biodigestion Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Biodigestion Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Waste Water",
+    "connector": "Waste Water",
+    "case": "CIP Process",
+    "engine": "Waste Water",
+    "fluid": "Waste Water",
+    "property_package": "SteamTables",
+    "state": {
+      "T_K": 303.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 1.2
+    },
+    "properties": {
+      "h_kJ_kg": 125.83371483858804,
+      "s_kJ_kgK": 0.4367634124617498,
+      "vapor_fraction": 0.0,
+      "phase": "L"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 1.0
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\CIP Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\CIP Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Waste Water",
+    "connector": "Waste Water",
+    "case": "Evaporation Process",
+    "engine": "Waste Water",
+    "fluid": "Waste Water",
+    "property_package": "SteamTables",
+    "state": {
+      "T_K": 277.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.9811
+    },
+    "properties": {
+      "h_kJ_kg": 16.91322178430955,
+      "s_kJ_kgK": 0.06110093421024669,
+      "vapor_fraction": 0.0,
+      "phase": "L"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.99,
+        "FAT": 0.01
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Evaporation Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Evaporation Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Waste Water",
+    "connector": "Waste Water",
+    "case": "Mesost Process",
+    "engine": "Waste Water",
+    "fluid": "Waste Water",
+    "property_package": "SteamTables",
+    "state": {
+      "T_K": 281.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.39
+    },
+    "properties": {
+      "h_kJ_kg": 33.7245803489577,
+      "s_kJ_kgK": 0.1213254985782738,
+      "vapor_fraction": 0.0,
+      "phase": "L"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 1.0
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Mesost Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Mesost Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Water",
+    "connector": "Water",
+    "case": "Cheese Process",
+    "engine": "Water",
+    "fluid": "Water",
+    "property_package": "SteamTables",
+    "state": {
+      "T_K": 285.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.25
+    },
+    "properties": {
+      "h_kJ_kg": 50.50669431047775,
+      "s_kJ_kgK": 0.18059592817229897,
+      "vapor_fraction": 0.0,
+      "phase": "L"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 1.0
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Cheese Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Cheese Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Water",
+    "connector": "Water",
+    "case": "CIP Process",
+    "engine": "Water",
+    "fluid": "Water",
+    "property_package": "SteamTables",
+    "state": {
+      "T_K": 298.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 1.2
+    },
+    "properties": {
+      "h_kJ_kg": 104.92929464256497,
+      "s_kJ_kgK": 0.36723101597456376,
+      "vapor_fraction": 0.0,
+      "phase": "L"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 1.0
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\CIP Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\CIP Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Water",
+    "connector": "Water",
+    "case": "Evaporation Process (1)",
+    "engine": "Water",
+    "fluid": "Water",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 333.20799999999997,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.80064
+    },
+    "properties": {
+      "h_kJ_kg": -2125.934190612378,
+      "s_kJ_kgK": -5.615644724127649,
+      "vapor_fraction": 0.008580520821731628,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.88,
+        "FAT": 0.12
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (1)\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (1)\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Water",
+    "connector": "Water",
+    "case": "Evaporation Process (2)",
+    "engine": "Water",
+    "fluid": "Water",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 338.1128,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.16
+    },
+    "properties": {
+      "h_kJ_kg": -2105.2338576042034,
+      "s_kJ_kgK": -5.553446081679463,
+      "vapor_fraction": 0.008620651461851246,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.88,
+        "FAT": 0.12
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (2)\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (2)\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Water",
+    "connector": "Water",
+    "case": "Evaporation Process (3)",
+    "engine": "Water",
+    "fluid": "Water",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 343.0007,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.2446
+    },
+    "properties": {
+      "h_kJ_kg": -2084.5657409870932,
+      "s_kJ_kgK": -5.492213701133782,
+      "vapor_fraction": 0.008664646969277184,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.88,
+        "FAT": 0.12
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (3)\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (3)\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Water",
+    "connector": "Water",
+    "case": "Evaporation Process (4)",
+    "engine": "Water",
+    "fluid": "Water",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 342.24899999999997,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 1.2607
+    },
+    "properties": {
+      "h_kJ_kg": -2087.7587378356884,
+      "s_kJ_kgK": -5.501616832807077,
+      "vapor_fraction": 0.00865711436452059,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.88,
+        "FAT": 0.12
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (4)\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (4)\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Water",
+    "connector": "Water",
+    "case": "Evaporation Process (5)",
+    "engine": "Water",
+    "fluid": "Water",
+    "property_package": "PengRobinson",
+    "state": {
+      "T_K": 338.1128,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 1.2607
+    },
+    "properties": {
+      "h_kJ_kg": -2105.2338576042034,
+      "s_kJ_kgK": -5.553446081679463,
+      "vapor_fraction": 0.008620651461851246,
+      "phase": "L+V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 0.88,
+        "FAT": 0.12
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (5)\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (5)\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Water",
+    "connector": "Water",
+    "case": "Rivella Process (1)",
+    "engine": "Water",
+    "fluid": "Water",
+    "property_package": "SteamTables",
+    "state": {
+      "T_K": 298.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.05856
+    },
+    "properties": {
+      "h_kJ_kg": 104.92929464256497,
+      "s_kJ_kgK": 0.36723101597456376,
+      "vapor_fraction": 0.0,
+      "phase": "L"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 1.0
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Rivella Process (1)\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Rivella Process (1)\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "Water",
+    "connector": "Water",
+    "case": "Rivella Process (2)",
+    "engine": "Water",
+    "fluid": "Water",
+    "property_package": "SteamTables",
+    "state": {
+      "T_K": 298.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.1004
+    },
+    "properties": {
+      "h_kJ_kg": 104.92929464256497,
+      "s_kJ_kgK": 0.36723101597456376,
+      "vapor_fraction": 0.0,
+      "phase": "L"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 1.0
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Rivella Process (2)\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Rivella Process (2)\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "WaterCIP",
+    "connector": "WaterCIP",
+    "case": "Mesost Process",
+    "engine": "WaterCIP",
+    "fluid": "WaterCIP",
+    "property_package": "SteamTables",
+    "state": {
+      "T_K": 373.7,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 0.39
+    },
+    "properties": {
+      "h_kJ_kg": 2676.726646036773,
+      "s_kJ_kgK": 7.357585814057389,
+      "vapor_fraction": 1.0,
+      "phase": "V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 1.0
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\WaterCIP\\Mesost Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\WaterCIP\\Mesost Process\\results\\connector_simple.json"
+    }
+  },
+  {
+    "uid": "WaterCIP",
+    "connector": "WaterCIP",
+    "case": "Rivella Process",
+    "engine": "WaterCIP",
+    "fluid": "WaterCIP",
+    "property_package": "SteamTables",
+    "state": {
+      "T_K": 373.15,
+      "P_Pa": 101325.0
+    },
+    "reference_flow": {
+      "massflow_kg_s": 1.4186
+    },
+    "properties": {
+      "h_kJ_kg": 2675.584853406595,
+      "s_kJ_kgK": 7.354528190683059,
+      "vapor_fraction": 1.0,
+      "phase": "V"
+    },
+    "compounds": {
+      "basis": "MASSFRAC",
+      "values": {
+        "H2O": 1.0
+      }
+    },
+    "_paths": {
+      "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\WaterCIP\\Rivella Process\\catalog.yaml",
+      "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\WaterCIP\\Rivella Process\\results\\connector_simple.json"
+    }
+  }
+]

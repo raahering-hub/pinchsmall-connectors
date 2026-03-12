@@ -1,0 +1,412 @@
+[
+  {
+    "uid": "Aroma",
+    "engine": "aroma",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Aroma\\Rivella Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Aroma\\Rivella Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Aroma\\Rivella Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Aroma\\Rivella Process\\results\\Aroma.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Aroma\\Rivella Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Aroma\\Rivella Process\\results\\meta.json"
+  },
+  {
+    "uid": "Biogas",
+    "engine": "biogas",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Biogas\\Biodigestion Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Biogas\\Biodigestion Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Biogas\\Biodigestion Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Biogas\\Biodigestion Process\\results\\Biogas.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Biogas\\Biodigestion Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Biogas\\Biodigestion Process\\results\\meta.json"
+  },
+  {
+    "uid": "Brine",
+    "engine": "brine",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Brine\\Cheese Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Brine\\Cheese Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Brine\\Cheese Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Brine\\Cheese Process\\results\\Brine.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Brine\\Cheese Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Brine\\Cheese Process\\results\\meta.json"
+  },
+  {
+    "uid": "Cheese",
+    "engine": "cheese",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cheese\\Cheese Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cheese\\Cheese Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cheese\\Cheese Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cheese\\Cheese Process\\results\\Cheese.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cheese\\Cheese Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cheese\\Cheese Process\\results\\meta.json"
+  },
+  {
+    "uid": "CO2",
+    "engine": "co2",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\CO2\\Rivella Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\CO2\\Rivella Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\CO2\\Rivella Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\CO2\\Rivella Process\\results\\CO2.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\CO2\\Rivella Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\CO2\\Rivella Process\\results\\meta.json"
+  },
+  {
+    "uid": "Concentrated Milk",
+    "engine": "concentrated milk",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Milk\\Cheese Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Milk\\Cheese Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Milk\\Cheese Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Milk\\Cheese Process\\results\\Concentrated Milk.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Milk\\Cheese Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Milk\\Cheese Process\\results\\meta.json"
+  },
+  {
+    "uid": "Concentrated Milk",
+    "engine": "concentrated milk",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Milk\\Evaporation Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Milk\\Evaporation Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Milk\\Evaporation Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Milk\\Evaporation Process\\results\\Concentrated Milk.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Milk\\Evaporation Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Milk\\Evaporation Process\\results\\meta.json"
+  },
+  {
+    "uid": "Concentrated Whey",
+    "engine": "concentrated whey",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Biodigestion Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Biodigestion Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Biodigestion Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Biodigestion Process\\results\\Concentrated Whey.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Biodigestion Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Biodigestion Process\\results\\meta.json"
+  },
+  {
+    "uid": "Concentrated Whey",
+    "engine": "concentrated whey",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Cheese Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Cheese Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Cheese Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Cheese Process\\results\\Concentrated Whey.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Cheese Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Cheese Process\\results\\meta.json"
+  },
+  {
+    "uid": "Concentrated Whey",
+    "engine": "concentrated whey",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Mesost Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Mesost Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Mesost Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Mesost Process\\results\\Concentrated Whey.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Mesost Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Mesost Process\\results\\meta.json"
+  },
+  {
+    "uid": "Concentrated Whey",
+    "engine": "concentrated whey",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Rivella Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Rivella Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Rivella Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Rivella Process\\results\\Concentrated Whey.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Rivella Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Concentrated Whey\\Rivella Process\\results\\meta.json"
+  },
+  {
+    "uid": "Cream",
+    "engine": "cream",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cream\\Mesost Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cream\\Mesost Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cream\\Mesost Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cream\\Mesost Process\\results\\Cream.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cream\\Mesost Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cream\\Mesost Process\\results\\meta.json"
+  },
+  {
+    "uid": "Cream",
+    "engine": "cream",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cream\\Pasturization Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cream\\Pasturization Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cream\\Pasturization Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cream\\Pasturization Process\\results\\Cream.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cream\\Pasturization Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Cream\\Pasturization Process\\results\\meta.json"
+  },
+  {
+    "uid": "Diluted Whey",
+    "engine": "diluted whey",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Biodigestion Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Biodigestion Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Biodigestion Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Biodigestion Process\\results\\Diluted Whey.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Biodigestion Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Biodigestion Process\\results\\meta.json"
+  },
+  {
+    "uid": "Diluted Whey",
+    "engine": "diluted whey",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Evaporation Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Evaporation Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Evaporation Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Evaporation Process\\results\\Diluted Whey.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Evaporation Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Evaporation Process\\results\\meta.json"
+  },
+  {
+    "uid": "Diluted Whey",
+    "engine": "diluted whey",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Mesost Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Mesost Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Mesost Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Mesost Process\\results\\Diluted Whey.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Mesost Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Mesost Process\\results\\meta.json"
+  },
+  {
+    "uid": "Diluted Whey",
+    "engine": "diluted whey",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Rivella Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Rivella Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Rivella Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Rivella Process\\results\\Diluted Whey.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Rivella Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Diluted Whey\\Rivella Process\\results\\meta.json"
+  },
+  {
+    "uid": "Fertilizer",
+    "engine": "fertilizer",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Fertilizer\\Biodigestion Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Fertilizer\\Biodigestion Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Fertilizer\\Biodigestion Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Fertilizer\\Biodigestion Process\\results\\Fertilizer.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Fertilizer\\Biodigestion Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Fertilizer\\Biodigestion Process\\results\\meta.json"
+  },
+  {
+    "uid": "Fresh Milk",
+    "engine": "fresh milk",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Fresh Milk\\Pasteurization Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Fresh Milk\\Pasteurization Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Fresh Milk\\Pasteurization Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Fresh Milk\\Pasteurization Process\\results\\Fresh Milk.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Fresh Milk\\Pasteurization Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Fresh Milk\\Pasteurization Process\\results\\meta.json"
+  },
+  {
+    "uid": "Mesost",
+    "engine": "mesost",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Mesost\\Mesost Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Mesost\\Mesost Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Mesost\\Mesost Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Mesost\\Mesost Process\\results\\Mesost.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Mesost\\Mesost Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Mesost\\Mesost Process\\results\\meta.json"
+  },
+  {
+    "uid": "Rivella",
+    "engine": "rivella",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Rivella\\Rivella Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Rivella\\Rivella Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Rivella\\Rivella Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Rivella\\Rivella Process\\results\\Rivella.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Rivella\\Rivella Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Rivella\\Rivella Process\\results\\meta.json"
+  },
+  {
+    "uid": "Salt",
+    "engine": "salt",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Salt\\Cheese Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Salt\\Cheese Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Salt\\Cheese Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Salt\\Cheese Process\\results\\Salt.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Salt\\Cheese Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Salt\\Cheese Process\\results\\meta.json"
+  },
+  {
+    "uid": "Skimmed Milk",
+    "engine": "skimmed milk",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Skimmed Milk\\Evaporation Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Skimmed Milk\\Evaporation Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Skimmed Milk\\Evaporation Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Skimmed Milk\\Evaporation Process\\results\\Skimmed Milk.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Skimmed Milk\\Evaporation Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Skimmed Milk\\Evaporation Process\\results\\meta.json"
+  },
+  {
+    "uid": "Skimmed Milk",
+    "engine": "skimmed milk",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Skimmed Milk\\Pasteurization Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Skimmed Milk\\Pasteurization Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Skimmed Milk\\Pasteurization Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Skimmed Milk\\Pasteurization Process\\results\\Skimmed Milk.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Skimmed Milk\\Pasteurization Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Skimmed Milk\\Pasteurization Process\\results\\meta.json"
+  },
+  {
+    "uid": "Sludge",
+    "engine": "sludge",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Sludge\\Biodigestion Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Sludge\\Biodigestion Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Sludge\\Biodigestion Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Sludge\\Biodigestion Process\\results\\Sludge.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Sludge\\Biodigestion Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Sludge\\Biodigestion Process\\results\\meta.json"
+  },
+  {
+    "uid": "Sugar",
+    "engine": "sugar",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Sugar\\Rivella Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Sugar\\Rivella Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Sugar\\Rivella Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Sugar\\Rivella Process\\results\\Sugar.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Sugar\\Rivella Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Sugar\\Rivella Process\\results\\meta.json"
+  },
+  {
+    "uid": "Waste Water",
+    "engine": "waste water",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Biodigestion Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Biodigestion Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Biodigestion Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Biodigestion Process\\results\\Waste Water.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Biodigestion Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Biodigestion Process\\results\\meta.json"
+  },
+  {
+    "uid": "Waste Water",
+    "engine": "waste water",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\CIP Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\CIP Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\CIP Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\CIP Process\\results\\Waste Water.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\CIP Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\CIP Process\\results\\meta.json"
+  },
+  {
+    "uid": "Waste Water",
+    "engine": "waste water",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Evaporation Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Evaporation Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Evaporation Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Evaporation Process\\results\\Waste Water.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Evaporation Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Evaporation Process\\results\\meta.json"
+  },
+  {
+    "uid": "Waste Water",
+    "engine": "waste water",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Mesost Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Mesost Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Mesost Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Mesost Process\\results\\Waste Water.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Mesost Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Waste Water\\Mesost Process\\results\\meta.json"
+  },
+  {
+    "uid": "Water",
+    "engine": "water",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Cheese Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Cheese Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Cheese Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Cheese Process\\results\\Water.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Cheese Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Cheese Process\\results\\meta.json"
+  },
+  {
+    "uid": "Water",
+    "engine": "water",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\CIP Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\CIP Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\CIP Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\CIP Process\\results\\Water.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\CIP Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\CIP Process\\results\\meta.json"
+  },
+  {
+    "uid": "Water",
+    "engine": "water",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (1)\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (1)\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (1)\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (1)\\results\\Water.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (1)\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (1)\\results\\meta.json"
+  },
+  {
+    "uid": "Water",
+    "engine": "water",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (2)\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (2)\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (2)\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (2)\\results\\Water.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (2)\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (2)\\results\\meta.json"
+  },
+  {
+    "uid": "Water",
+    "engine": "water",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (3)\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (3)\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (3)\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (3)\\results\\Water.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (3)\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (3)\\results\\meta.json"
+  },
+  {
+    "uid": "Water",
+    "engine": "water",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (4)\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (4)\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (4)\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (4)\\results\\Water.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (4)\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (4)\\results\\meta.json"
+  },
+  {
+    "uid": "Water",
+    "engine": "water",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (5)\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (5)\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (5)\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (5)\\results\\Water.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (5)\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Evaporation Process (5)\\results\\meta.json"
+  },
+  {
+    "uid": "Water",
+    "engine": "water",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Rivella Process (1)\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Rivella Process (1)\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Rivella Process (1)\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Rivella Process (1)\\results\\Water.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Rivella Process (1)\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Rivella Process (1)\\results\\meta.json"
+  },
+  {
+    "uid": "Water",
+    "engine": "water",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Rivella Process (2)\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Rivella Process (2)\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Rivella Process (2)\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Rivella Process (2)\\results\\Water.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Rivella Process (2)\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\Water\\Rivella Process (2)\\results\\meta.json"
+  },
+  {
+    "uid": "WaterCIP",
+    "engine": "watercip",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\waterCIP\\Mesost Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\waterCIP\\Mesost Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\waterCIP\\Mesost Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\waterCIP\\Mesost Process\\results\\WaterCIP.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\waterCIP\\Mesost Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\waterCIP\\Mesost Process\\results\\meta.json"
+  },
+  {
+    "uid": "waterCIP",
+    "engine": "watercip",
+    "catalog_yaml": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\waterCIP\\Rivella Process\\catalog.yaml",
+    "integration_py": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\waterCIP\\Rivella Process\\integration.py",
+    "results_dir": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\waterCIP\\Rivella Process\\results",
+    "dwsim_dwxmz": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\waterCIP\\Rivella Process\\results\\waterCIP.dwxmz",
+    "connector_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\waterCIP\\Rivella Process\\results\\connector.json",
+    "meta_json": "\\\\files8.epfl.ch\\data\\ramaral\\dwsim-python\\integration-dwpy\\connectors\\pinch\\waterCIP\\Rivella Process\\results\\meta.json"
+  }
+]
